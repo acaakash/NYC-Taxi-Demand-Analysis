@@ -1,6 +1,8 @@
 # NYC Taxi Demand & Operations Analysis
 
 ## Problem Statement
+
+Taxi operators in large cities must balance fleet supply with fluctuating passenger demand. Understanding when and where demand occurs can help improve dispatch efficiency, reduce passenger wait times, and optimize driver utilization.
 This project analyzes New York City taxi trip data to uncover demand patterns, operational inefficiencies, and pricing behavior that can help optimise taxi operations.
 
 ## Dataset
